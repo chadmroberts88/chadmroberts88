@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<img height="300rem" src="https://wakatime.com/share/@6db8abfc-b4ca-4005-9e0a-30a09f6cc381/7c28949e-c386-431a-b40a-b1332ae07e65.svg"/>
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadmroberts88&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=transparent"/>
 </div>
