@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/chadmroberts88)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://chadroberts.webflow.io)
 
-I'm a Full-Stack Software Developer with a degree in Business. I have also worked in a number of public-sector areas including healthcare, education/IT, and municipal government.
+I'm a Full-Stack Software Developer with a degree in Business. I have also worked in a number of public-sector areas in the past including healthcare, education/IT, and municipal government.
 
 I started my software development journey in late 2021. In early 2022 joined [Get Coding](https://github.com/getcoding-ca). Before finishing the program, I was hired by the company as a developer. I am currently working on building both the mobile and web versions of their student management system.
 
