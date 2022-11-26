@@ -24,6 +24,8 @@ I started my software development journey in late 2021. In early 2022 joined [Ge
 🚑 [MobiHealth: Bounce Health Innovation 2022 Hackathon Project](https://www.figma.com/proto/BKTAYamEHqateR1RLaUKIn/MobiHealth?node-id=5%3A22&starting-point-node-id=5%3A22) <br>
 🌐 [Mackenzie County: Corporate Website Redesign](https://mackenziecounty.com) <br>
 
+### Fun stats:
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
