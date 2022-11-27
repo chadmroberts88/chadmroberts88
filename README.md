@@ -10,7 +10,7 @@ I started my software development journey in late 2021. In early 2022 I joined [
 ### What I'm working on now:
 
 🖥️ [Software Developer @ Get Coding](https://www.getcoding.ca/our-students) <br>
-🏋️ [Form Fit: A web application for developing proper workout form](https://github.com/chadmroberts88/form-fit) <br>
+🏋️ [Form Trainer: A web application for developing proper workout form](https://github.com/chadmroberts88/form-fit) <br>
 
 ### Some projects I built while learning to code:
 
