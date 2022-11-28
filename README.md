@@ -27,6 +27,13 @@ I started my software development journey in late 2021. In early 2022 I joined [
 ### Fun stats:
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   47 mins         ████████████████▓░░░░░░░░   66.47 %
+JSON         22 mins         ████████░░░░░░░░░░░░░░░░░   31.48 %
+CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+```
+
 <!--END_SECTION:waka-->
 
 Languages I've been using this week:
