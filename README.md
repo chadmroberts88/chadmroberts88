@@ -9,6 +9,7 @@ I started my software development journey in late 2021. In early 2022 I joined [
 
 ### What I'm up to now:
 
+🎄 [Advent of Code 2022](https://github.com/chadmroberts88/advent-of-code-2022) <br>
 🖥️ [Software Developer @ Get Coding](https://www.getcoding.ca/our-students) <br>
 🏋️ [Form Trainer: A web application for developing proper workout form](https://github.com/chadmroberts88/form-fit) <br>
 
