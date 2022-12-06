@@ -13,7 +13,7 @@ I started my software development journey in late 2021. In early 2022 I joined [
 🖥️ [Software Developer @ Get Coding](https://www.getcoding.ca/our-students) <br>
 🏋️ [Form Trainer: A web application for developing proper workout form](https://github.com/chadmroberts88/form-fit) <br>
 
-### Some projects I built while learning to code:
+### Some projects I've built:
 
 🍓 [Fruit Fusion: Web Game](https://chadmroberts88.github.io/fruit-fusion/) <br>
 🏫 [Classroom Planner: Web Application](https://chadmroberts88.github.io/classroom-planner/) <br>
