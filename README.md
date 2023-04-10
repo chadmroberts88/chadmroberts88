@@ -9,7 +9,7 @@ I started my software development journey in late 2021. In early 2022 I joined [
 
 ### What I'm up to now:
 
-🎒 Learning about Java and Python 
+🎒 Learning about Java and Python <br>
 🏋️ [Form Trainer: A web application for developing proper workout form](https://github.com/chadmroberts88/form-fit) <br>
 🖥️ [Software Developer at Get Coding Training](https://www.getcoding.ca/our-students) <br>
 
