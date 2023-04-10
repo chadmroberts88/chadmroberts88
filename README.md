@@ -9,9 +9,9 @@ I started my software development journey in late 2021. In early 2022 I joined [
 
 ### What I'm up to now:
 
-🎄 [Advent of Code 2022](https://github.com/chadmroberts88/advent-of-code-2022) <br>
-🖥️ [Software Developer @ Get Coding](https://www.getcoding.ca/our-students) <br>
+🎒 Learning about Java and Python 
 🏋️ [Form Trainer: A web application for developing proper workout form](https://github.com/chadmroberts88/form-fit) <br>
+🖥️ [Software Developer at Get Coding Training](https://www.getcoding.ca/our-students) <br>
 
 ### Some projects I've built:
 
@@ -22,6 +22,7 @@ I started my software development journey in late 2021. In early 2022 I joined [
 
 ### Other things I've worked on:
 
+🎄 [Advent of Code 2022](https://github.com/chadmroberts88/advent-of-code-2022) <br>
 🚑 [MobiHealth: Bounce Health Innovation 2022 Hackathon Project](https://www.figma.com/proto/BKTAYamEHqateR1RLaUKIn/MobiHealth?node-id=5%3A22&starting-point-node-id=5%3A22) <br>
 🌐 [Mackenzie County: Corporate Website Redesign](https://mackenziecounty.com) <br>
 
