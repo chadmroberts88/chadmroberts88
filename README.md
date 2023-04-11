@@ -33,7 +33,7 @@ Languages I've been using this week:
 <img height="400rem" src="https://wakatime.com/share/@6db8abfc-b4ca-4005-9e0a-30a09f6cc381/4efd4695-4759-465d-a005-1eee5b4d7959.svg"/>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadmroberts88&show_icons=true&layout=compact&langs_count=8&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadmroberts88&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=transparent"/>
 </div>
 
 #### Thanks for checking out my profle! 
