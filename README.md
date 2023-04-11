@@ -30,7 +30,7 @@ I started my software development journey in late 2021. In early 2022 I joined [
 
 Languages I've been using this week:
 
-<img height="400rem" src="https://wakatime.com/share/@6db8abfc-b4ca-4005-9e0a-30a09f6cc381/5427c664-40b6-450d-ac41-e3978b103428.svg"/>
+<img height="400rem" src="https://wakatime.com/share/@6db8abfc-b4ca-4005-9e0a-30a09f6cc381/ce67dd7e-850e-4bd1-bf29-65cb793afe53.svg"/>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadmroberts88&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=transparent"/>
