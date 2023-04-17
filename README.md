@@ -3,9 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/chadmroberts88)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://chadroberts.webflow.io)
 
-I'm a Full-Stack Software Developer with a degree in Business. I've also worked in a number of public-sector areas in the past including healthcare, education/IT, and municipal government.
-
-I started my software development journey in late 2021. In early 2022 I joined [Get Coding](https://github.com/getcoding-ca). Before finishing the program, I was hired by the company as a developer to build both the mobile and web versions of their student management system.
+I'm a Full-Stack Software Developer with a degree in Business. I've also worked in a number of public-sector areas in the past including healthcare, education/IT, and municipal government. I'm currently working as a developer at Get Coding, building both the mobile and web versions of their student management system!
 
 ### What I'm up to now:
 
@@ -31,10 +29,6 @@ I started my software development journey in late 2021. In early 2022 I joined [
 Languages I've been using this week:
 
 <img height="400rem" src="https://wakatime.com/share/@6db8abfc-b4ca-4005-9e0a-30a09f6cc381/4efd4695-4759-465d-a005-1eee5b4d7959.svg"/>
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadmroberts88&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=transparent"/>
-</div>
 
 #### Thanks for checking out my profle! 
 ![vistitors](https://visitor-badge.glitch.me/badge?page_id=chadmroberts88.chadmroberts88)
