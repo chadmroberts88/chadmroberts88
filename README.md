@@ -7,7 +7,7 @@ I'm a Full-Stack Software Developer with a degree in Business. I've also worked 
 
 ### What I'm up to now:
 
-🎒 Learning about Java and Python <br>
+🎒 Learning about Java <br>
 🏋️ [Form Trainer: A web application for developing proper workout form](https://github.com/chadmroberts88/form-fit) <br>
 🖥️ [Software Developer at Get Coding Training](https://www.getcoding.ca/our-students) <br>
 
