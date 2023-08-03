@@ -1,7 +1,7 @@
 # Hey there, I'm Chad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/chadmroberts88)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://chadroberts.webflow.io)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.chadroberts.ca)
 
 I'm a Full-Stack Software Developer with a degree in Business. I've also worked in a number of public-sector areas in the past including healthcare, education/IT, and municipal government. I'm currently working as a developer at Get Coding, building both the mobile and web versions of their student management system!
 
