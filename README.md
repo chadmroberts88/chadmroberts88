@@ -3,16 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/chadmroberts88)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.chadroberts.ca)
 
-I'm a Full-Stack Software Developer with a degree in Business. I've also worked in a number of public-sector areas in the past including healthcare, education/IT, and municipal government. I'm currently working as a developer at Get Coding, building both the mobile and web versions of their student management system!
+I'm a Full-Stack Software Developer with a degree in Business. I've also worked in a number of public-sector areas in the past including healthcare, education/IT, and municipal government.
 
-### What I'm up to now:
+### Projects/experience:
 
-🎒 Learning about Java <br>
-🏋️ [Form Trainer: A web application for developing proper workout form](https://github.com/chadmroberts88/form-fit) <br>
 🖥️ [Software Developer at Get Coding Training](https://www.getcoding.ca/our-students) <br>
-
-### Some projects I've built:
-
 🍓 [Fruit Fusion: Web Game](https://chadmroberts88.github.io/fruit-fusion/) <br>
 🏫 [Classroom Planner: Web Application](https://chadmroberts88.github.io/classroom-planner/) <br>
 💼 [Profile Page: Basic Online Resume](https://chadmroberts88.github.io/profile/) <br>
