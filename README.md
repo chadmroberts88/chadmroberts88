@@ -3,7 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/chadmroberts88)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.chadroberts.ca)
 
-I'm a Full-Stack Software Developer with a degree in Business. I've also worked in a number of public-sector areas in the past including healthcare, education/IT, and municipal government.
+I’m a dog dad, BBA, and a Software Developer who has taken full-stack applications from conception to production. In 2022 I started my coding journey as a student in the Get Coding program. Just before completing the program, I was hired by the company to build their custom student management system, and later also became a coach.
+
+In addition to working with Get Coding, I had an opportunity to contribute to the development of a mobile application at Milk Moovement for a short time in 2023. I've also worked in a number of public-sector areas in the past including healthcare, education/IT, and municipal government.
+
+In my free time, I continue to work on personal projects and volunteer with Canada Learning Code when I can!
 
 ### Projects/experience:
 
