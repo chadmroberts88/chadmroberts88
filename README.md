@@ -30,4 +30,4 @@ Languages I've been using this week:
 <img height="400rem" src="https://wakatime.com/share/@6db8abfc-b4ca-4005-9e0a-30a09f6cc381/4efd4695-4759-465d-a005-1eee5b4d7959.svg"/>
 
 #### Thanks for checking out my profle! 
-![](https://komarev.com/ghpvc/?username=chadmroberts88&color=green&label=Views&base=235)
+![](https://komarev.com/ghpvc/?username=chadmroberts88&color=green&label=Profile+Views&base=235)
