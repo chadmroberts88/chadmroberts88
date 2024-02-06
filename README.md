@@ -12,10 +12,10 @@ In my free time, I continue to work on personal projects and volunteer with Cana
 ### Projects/experience:
 
 🖥️ [Software Developer at Get Coding Training](https://www.getcoding.ca/our-students) <br>
+:card_index_dividers: [Portfolio Page: Web Page](https://www.chadroberts.ca) <br>
 🍓 [Fruit Fusion: Web Game](https://chadmroberts88.github.io/fruit-fusion/) <br>
 🏫 [Classroom Planner: Web Application](https://chadmroberts88.github.io/classroom-planner/) <br>
-💼 [Profile Page: Basic Online Resume](https://chadmroberts88.github.io/profile/) <br>
-🐶 [Howler: Simple Landing Page](https://chadmroberts88.github.io/howler/) <br>
+:weight_lifting: [Form Trainer (WIP): Web Application](https://chadmroberts88.github.io/form-trainer/) <br>
 
 ### Other things I've worked on:
 
