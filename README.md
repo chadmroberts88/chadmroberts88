@@ -17,7 +17,6 @@ In my free time, I continue to work on personal projects and volunteer with Cana
 🏫 [Classroom Planner: Web Application](https://chadmroberts88.github.io/classroom-planner/) <br>
 📱 [Pokedex: Mobile Application](https://www.github.com/chadmroberts88/pokedex/) <br>
 🏋️ [Form Trainer (WIP): Web Application](https://chadmroberts88.github.io/form-trainer/) <br>
-🎄 [Advent of Code 2023: Just for Fun](https://github.com/chadmroberts88/advent-of-code-2023) <br>
 🌐 [Mackenzie County: Corporate Website Redesign](https://mackenziecounty.com) <br>
 
 ### Fun stats:
