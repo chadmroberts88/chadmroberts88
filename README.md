@@ -9,19 +9,15 @@ In addition to working with Get Coding, I had an opportunity to contribute to th
 
 In my free time, I continue to work on personal projects and volunteer with Canada Learning Code when I can!
 
-### Projects/experience:
+### Projects, Experience, and Other Things:
 
-🖥️ [Software Developer and Coach at Get Coding Training](https://play.google.com/store/apps/details?id=ca.getcoding.app&pli=1) <br>
-🗂️ [Portfolio Page: Web Page](https://www.chadroberts.ca) <br>
+🖥️ [Software Developer/Coach: Get Coding Training](https://play.google.com/store/apps/details?id=ca.getcoding.app&pli=1) <br>
+🗂️ [My Portfolio: Website](https://www.chadroberts.ca) <br>
 🍓 [Fruit Fusion: Web Game](https://chadmroberts88.github.io/fruit-fusion/) <br>
 🏫 [Classroom Planner: Web Application](https://chadmroberts88.github.io/classroom-planner/) <br>
 📱 [Pokedex: Mobile Application](https://www.github.com/chadmroberts88/pokedex/) <br>
 🏋️ [Form Trainer (WIP): Web Application](https://chadmroberts88.github.io/form-trainer/) <br>
-
-### Other things I've worked on:
-
-🎄 [Advent of Code 2022](https://github.com/chadmroberts88/advent-of-code-2022) <br>
-🚑 [MobiHealth: Bounce Health Innovation 2022 Hackathon Project](https://www.figma.com/proto/BKTAYamEHqateR1RLaUKIn/MobiHealth?node-id=5%3A22&starting-point-node-id=5%3A22) <br>
+🎄 [Advent of Code 2023](https://github.com/chadmroberts88/advent-of-code-2023) <br>
 🌐 [Mackenzie County: Corporate Website Redesign](https://mackenziecounty.com) <br>
 
 ### Fun stats:
