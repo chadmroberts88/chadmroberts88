@@ -11,13 +11,13 @@ In my free time, I continue to work on personal projects and volunteer with Cana
 
 ### Projects, Experience, and Other Things:
 
-🖥️ [Software Developer/Coach: Get Coding Training](https://play.google.com/store/apps/details?id=ca.getcoding.app&pli=1) <br>
+🖥️ [Software Developer/Coach: Get Coding](https://play.google.com/store/apps/details?id=ca.getcoding.app&pli=1) <br>
 🗂️ [My Portfolio: Website](https://www.chadroberts.ca) <br>
 🍓 [Fruit Fusion: Web Game](https://chadmroberts88.github.io/fruit-fusion/) <br>
 🏫 [Classroom Planner: Web Application](https://chadmroberts88.github.io/classroom-planner/) <br>
 📱 [Pokedex: Mobile Application](https://www.github.com/chadmroberts88/pokedex/) <br>
 🏋️ [Form Trainer (WIP): Web Application](https://chadmroberts88.github.io/form-trainer/) <br>
-🌐 [Mackenzie County: Corporate Website Redesign](https://mackenziecounty.com) <br>
+🌐 [Mackenzie County: Website Redesign](https://mackenziecounty.com) <br>
 
 ### Fun stats:
 
