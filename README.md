@@ -16,7 +16,7 @@ In my free time, I continue to work on personal projects and volunteer with Cana
 🍓 [Fruit Fusion: Web Game](https://chadmroberts88.github.io/fruit-fusion/) <br>
 🏫 [Classroom Planner: Web Application](https://chadmroberts88.github.io/classroom-planner/) <br>
 📱 [Pokedex: Mobile Application](https://www.github.com/chadmroberts88/pokedex/) <br>
-🏋️ [Form Trainer (WIP): Web Application](https://chadmroberts88.github.io/form-trainer/) <br>
+🏋️ [Form Trainer: A Work-in-Progress](https://chadmroberts88.github.io/form-trainer/) <br>
 🌐 [Mackenzie County: Website Redesign](https://mackenziecounty.com) <br>
 
 ### Fun stats:
